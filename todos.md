@@ -1,0 +1,6 @@
+- [ ] Reproduce the tristable steady state diagram (mZEB vs SNAIL) (color code three different control parameters scan, separately)
+- [ ] Check if the Neumann boundary condition implementation is correct.
+- [ ] Figure out the implications of Neumann boundary condition (Is it possible to end up at zero concentration from pure diffusion, starting from a non-zero concentration?)
+- [ ] In the multi-cellular case, check if the steady state is reached and how. (just reaction)
+- [ ] Then add diffusion with different diffusion coefficients (to change the time scale of of the diffusion) and check its effect.
+- [ ] Run simulations with only diffusion.
